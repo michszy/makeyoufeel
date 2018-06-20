@@ -1,0 +1,4 @@
+#Sat Jan 20 16:10:14 CET 2018
+base.0=C\:\\Users\\002\\Desktop\\Code\\MakeYouFeel\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
